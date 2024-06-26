@@ -11,7 +11,7 @@ class Motor:
     def stop(self):
         self.direction = 'stopped'
         print('Motor stopped')
-#nouhaila salam
+#nouhaila salam121
 if __name__ == '__main__':
     motor = Motor()
     motor.rotate('clockwise')
